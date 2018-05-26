@@ -1,0 +1,5 @@
+Z:\StudentsFiles\RPZ\RPZ3\Огороднік\SomeDZ\practiceSharpArraysIndex\0\bin\Debug\0.exe.config
+Z:\StudentsFiles\RPZ\RPZ3\Огороднік\SomeDZ\practiceSharpArraysIndex\0\bin\Debug\0.exe
+Z:\StudentsFiles\RPZ\RPZ3\Огороднік\SomeDZ\practiceSharpArraysIndex\0\bin\Debug\0.pdb
+Z:\StudentsFiles\RPZ\RPZ3\Огороднік\SomeDZ\practiceSharpArraysIndex\0\obj\Debug\0.exe
+Z:\StudentsFiles\RPZ\RPZ3\Огороднік\SomeDZ\practiceSharpArraysIndex\0\obj\Debug\0.pdb

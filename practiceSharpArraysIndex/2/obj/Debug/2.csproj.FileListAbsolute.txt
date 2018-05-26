@@ -4,3 +4,6 @@ Z:\StudentsFiles\RPZ\RPZ3\Огороднік\Інше\practiceSharpArraysIndex\2
 Z:\StudentsFiles\RPZ\RPZ3\Огороднік\Інше\practiceSharpArraysIndex\2\bin\Debug\2.pdb
 Z:\StudentsFiles\RPZ\RPZ3\Огороднік\Інше\practiceSharpArraysIndex\2\obj\Debug\2.exe
 Z:\StudentsFiles\RPZ\RPZ3\Огороднік\Інше\practiceSharpArraysIndex\2\obj\Debug\2.pdb
+Z:\StudentsFiles\RPZ\RPZ3\Огороднік\SomeDZ\practiceSharpArraysIndex\2\bin\Debug\2.exe.config
+Z:\StudentsFiles\RPZ\RPZ3\Огороднік\SomeDZ\practiceSharpArraysIndex\2\obj\Debug\2.exe
+Z:\StudentsFiles\RPZ\RPZ3\Огороднік\SomeDZ\practiceSharpArraysIndex\2\obj\Debug\2.pdb
