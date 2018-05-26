@@ -10,7 +10,18 @@ namespace _2
     {
         static void Main(string[] args)
         {
-
+            try
+            {
+                Store s = new Store();
+                s[1].Display();
+                s["Tea"].Display();
+                s["ddaw"].Display();
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e.Message);
+            }
+            Console.ReadLine();
         }
     }
 }

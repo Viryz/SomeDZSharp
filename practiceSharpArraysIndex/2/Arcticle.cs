@@ -22,5 +22,13 @@ namespace _2
         public string Name { get { return name; } }
         public string ShopName { get { return shopName; } }
         public float Cost { get { return cost; } }
+
+        public void Display()
+        {
+            Console.WriteLine(name);
+            Console.WriteLine(shopName);
+            Console.WriteLine(cost);
+        }
+
     }
 }
