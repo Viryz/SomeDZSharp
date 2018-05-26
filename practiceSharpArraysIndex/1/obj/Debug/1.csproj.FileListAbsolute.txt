@@ -4,3 +4,6 @@ Z:\StudentsFiles\RPZ\RPZ3\Огороднік\Інше\practiceSharpArraysIndex\1
 Z:\StudentsFiles\RPZ\RPZ3\Огороднік\Інше\practiceSharpArraysIndex\1\obj\Debug\1.csprojResolveAssemblyReference.cache
 Z:\StudentsFiles\RPZ\RPZ3\Огороднік\Інше\practiceSharpArraysIndex\1\obj\Debug\1.exe
 Z:\StudentsFiles\RPZ\RPZ3\Огороднік\Інше\practiceSharpArraysIndex\1\obj\Debug\1.pdb
+Z:\StudentsFiles\RPZ\RPZ3\Огороднік\SomeDZ\practiceSharpArraysIndex\1\bin\Debug\1.exe.config
+Z:\StudentsFiles\RPZ\RPZ3\Огороднік\SomeDZ\practiceSharpArraysIndex\1\obj\Debug\1.exe
+Z:\StudentsFiles\RPZ\RPZ3\Огороднік\SomeDZ\practiceSharpArraysIndex\1\obj\Debug\1.pdb
